@@ -1,24 +1,28 @@
 ---
 ---
 
-// Make CV link RoyalBlue (CORRECT SELECTOR)
-.author__urls-wrapper a[data-label="CV"] {
-  color: RoyalBlue !important;
-}
-
-// Change CV color on hover
-.author__urls-wrapper a[data-label="CV"]:hover {
-  color: DarkBlue !important;
-}
-
-// Override the contrast skin filter for sidebar icons (CORRECT SELECTOR)
-.sidebar__right .author__urls-social i {
+/* NUCLEAR OPTION: Remove all filters from sidebar icons */
+.sidebar .author__urls-social i.svg-inline--fa {
     filter: none !important;
+    -webkit-filter: none !important;
+    color: inherit !important; /* This allows the original colors to show */
 }
 
-// Add subtle hover effect to all social icons
-.sidebar__right .author__urls-social a:hover i {
+/* Force specific colors for each brand */
+.sidebar a[data-label="Google Scholar"] i { color: #4285F4 !important; } /* Google Blue */
+.sidebar a[data-label="ORCID"] i { color: #A6CE39 !important; } /* ORCID Green */
+.sidebar a[data-label="X"] i { color: #000000 !important; } /* X Black */
+.sidebar a[data-label="Email"] i { color: #EA4335 !important; } /* Gmail Red */
+.sidebar a[data-label="Bluesky"] i { color: #0085FF !important; } /* Bluesky Blue */
+.sidebar a[data-label="CV"] i { color: RoyalBlue !important; } /* CV RoyalBlue */
+
+/* Make the CV text RoyalBlue */
+.sidebar a[data-label="CV"] .btn__text {
+    color: RoyalBlue !important;
+}
+
+/* Hover effects */
+.sidebar .author__urls-social a:hover i {
     opacity: 0.9;
     transform: scale(1.1);
-    transition: transform 0.2s ease-in-out;
 }
