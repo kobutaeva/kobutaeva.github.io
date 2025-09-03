@@ -58,19 +58,16 @@
   color: #0071BC !important;
   text-decoration: underline;
 }
-
-  /* Remove hover effects from avatar link */
-.author__avatar-link:hover {
-  opacity: 1 !important; /* Prevents fade effect on hover */
-  transform: none !important; /* Prevents scaling/zoom effect on hover */
-  border-color: transparent !important; /* Removes border color change if any */
+  
+/* Make ALL text links in content the same blue */
+.page__content a {
+  color: #0071BC !important; /* Your chosen blue */
 }
 
-/* Specifically target the avatar image on hover */
-.author__avatar-link:hover .u-photo {
-  transform: none !important; /* Prevents image scaling */
-  opacity: 1 !important; /* Prevents image fading */
+/* Remove color change on hover, keep only underline */
+.page__content a:hover {
+  color: #0071BC !important; /* Same color as normal state */
+  text-decoration: underline;
 }
-
 </style>
 </head>
