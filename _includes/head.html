@@ -41,24 +41,36 @@
 // Nicer link colors Optional: Specific targeting for sidebar links
 /* Target only text links inside your content paragraphs */
 .page__content p a {
-  color: #002366 !important; /* RoyalBlue for SSRN, PDF links */
+  color: #0071BC !important; /* RoyalBlue for SSRN, PDF links */
 }
 
 .page__content p a:hover {
-  color: #002366 !important; /* Darker blue on hover */
+  color: #0071BC !important; /* Darker blue on hover */
   text-decoration: underline;
 }
 
 /* Optional: Also target links in lists if your papers are in a list */
 .page__content li a {
-  color: #002366 !important;
+  color: #0071BC !important;
 }
 
 .page__content li a:hover {
-  color: #002366 !important;
+  color: #0071BC !important;
   text-decoration: underline;
 }
 
+  /* Remove hover effects from avatar link */
+.author__avatar-link:hover {
+  opacity: 1 !important; /* Prevents fade effect on hover */
+  transform: none !important; /* Prevents scaling/zoom effect on hover */
+  border-color: transparent !important; /* Removes border color change if any */
+}
+
+/* Specifically target the avatar image on hover */
+.author__avatar-link:hover .u-photo {
+  transform: none !important; /* Prevents image scaling */
+  opacity: 1 !important; /* Prevents image fading */
+}
 
 </style>
 </head>
