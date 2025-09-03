@@ -1,14 +1,5 @@
----
----
-
-/* Target the specific link that contains the avatar */
-.author__avatar-link {
-  #avatar-wrapper {
-    .avatar {
-      width: 300px !important;
-      height: 300px !important;
-      border-radius: 50% !important;
-      border: 5px solid #f2f3f3 !important;
-    }
-  }
+.author__avatar {
+  width: 300px;  /* default is 90px */
+  height: 300px; /* maintain square shape */
+  border-radius: 50%; /* keep it circular */
 }
