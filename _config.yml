@@ -117,7 +117,7 @@ author:
   name             : "Kristina Butaeva"
   avatar           : "/assets/Kristina11_small.jpg"
   bio              : "I am a Postdoctoral Scholar at the Stone Center for Research on Wealth Inequality and Mobility, Harris School of Public Policy, University of Chicago. My research interests include inequality, intergenerational mobility, and social diversity."
-  location         : "Chicago"
+  location         : 
   email            :
   links:
     - label: "CV"
@@ -127,10 +127,10 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:butaeva.k.o@gmail.com"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=qJPhD3gAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "ORCID"
-      icon: "ai ai-orcid"
+      icon: "fas fa-passport"
       url: "https://orcid.org/my-orcid?orcid=0000-0001-5865-577X"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
