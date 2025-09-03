@@ -1,6 +1,7 @@
 ---
 title: "Kristina Butaeva"
-layout: archive  # This enables the sidebar with your avatar and links
+layout: single
+author_profile: true
 permalink: /
 ---
 
