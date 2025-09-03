@@ -4,7 +4,6 @@ permalink: /teaching/
 layout: single
 ---
 
-### Courses Taught
 
 **University of Chicago**
 *   **The Inequality Working Group: Stone Center Research Seminar** (Spring 2025)  
