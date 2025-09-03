@@ -18,9 +18,9 @@ permalink: /
 3.  **Butaeva, K.** (2025). *Income Inequality in China, 2012-2018: A New Measurement Approach*.  
     **Abstract:** This paper applies new measurement procedures to the data from the China Household Finance Survey (CHFS) to estimate income inequality in China from 2012 to 2018. In this study, I also examine rural-urban and regional disparities in China, as well as income inequality in five provinces (Shanghai, Guangdong, Liaoning, Henan, and Gansu). The proposed estimation method aims to account for the sparse influential observations of the top income earners in the survey data and involves two main attributes. First, to approximate income distribution, I use a semiparametric density model, consisting of a nonparametric kernel density approximating the bulk and a Generalized Pareto Distribution (GPD) top tail. Second, to fit the parameters of the GPD, I suggest utilizing a Maximum Penalized Likelihood Estimator (MPLE) with a beta penalty function tuned to model the top income distribution. The results yield estimates of the Gini index in China of 0.616 in 2012, 0.604 in 2014, 0.581 in 2016, and 0.590 in 2018. These estimates are higher than those obtained by applying the same estimation procedures to the data from the China Family Panel Studies (CFPS) in a supplementary analysis in this paper. Nevertheless, the results are consistent with the Gini index estimates from the previous literature that relied on top income adjustments. Moreover, they are substantially higher than typical estimates, which are solely based on the household survey data.
     [🔗 SSRN](https://ssrn.com/abstract=5185428)
- <figure style="float: right; width: 40%; margin-left: 20px; margin-bottom: 20px;">
+ <figure style="float: right; width: 25%; margin-left: 20px; margin-bottom: 20px;">
   <img src="/assets/fig_ch1.png" alt="Main finding from Paper 1">
-  <figcaption style="font-size: 0.8em; text-align: center;"><strong>Figure 1:</strong> Gini index in China.</figcaption>
+  <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 1:</strong> Gini index in China.</figcaption>
 </figure>
     
 
