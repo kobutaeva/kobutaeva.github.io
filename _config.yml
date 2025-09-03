@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
- #theme                  : "minimal-mistakes-jekyll"
- remote_theme           : "mmistakes/minimal-mistakes"
+#theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Kristina Butaeva"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am a Postdoctoral Scholar at the Stone Center at the University of Chicago. My research interests include inequality, intergenerational mobility, and social diversity. "
-  location         : "Somewhere"
+  bio              : "I am a Postdoctoral Scholar at the Stone Center at the University of Chicago. My research interests include inequality, intergenerational mobility, and social diversity."
+  location         : "Chicago"
   email            :
   links:
     - label: "Email"
