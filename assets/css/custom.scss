@@ -1,0 +1,12 @@
+---
+---
+
+// Make CV link RoyalBlue
+.author__links a[data-label="CV"] {
+  color: RoyalBlue !important;
+}
+
+// Optional: Change color on hover
+.author__links a[data-label="CV"]:hover {
+  color: DarkBlue !important; /* Darker shade on hover */
+}
