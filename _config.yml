@@ -12,7 +12,7 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -119,6 +119,9 @@ author:
   location         : "Chicago"
   email            :
   links:
+    - label: "CV"
+      icon: "fa-duotone fa-thin fa-file-user"
+      "/assets/Kristina_Butaeva_CV_19_Aug_2025.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:butaeva.k.o@gmail.com"
@@ -134,9 +137,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    
 
 # Site Footer
 footer:
