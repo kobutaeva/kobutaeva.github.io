@@ -7,7 +7,7 @@ permalink: /
 
 ## Working Papers
 
-1.  **Butaeva, K.**, Chen, L., Durlauf, S. N., & Park, A. (2025). *A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning*. [🔗 NBER](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=12345) 
+1.  **Butaeva, K.**, Chen, L., Durlauf, S., & Park, A. (2025). *A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning*. [🔗 NBER](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=12345) 
     <details>
     <summary><strong>Abstract</strong></summary>
     This paper examines intergenerational mobility in China and Russia during their transitions from central planning to market systems. We consider mobility as movement captured by changes in status between parents and children. We provide estimates of overall mobility, which involves mobility during transition to a system's steady state, as well as steady state mobility, which captures long-run mobility independent of transitional dynamics or shifts in the marginal distribution of outcomes across generations. We further decompose overall mobility into structural and exchange components. We find that China exhibits more overall educational mobility than Russia mostly due to greater structural mobility, while Russia exhibits greater steady state educational mobility. In contrast, both the overall and steady state occupational mobility is similar in China and Russia. Comparing these results to the US, we find that steady state mobility in education is substantially higher in the US and Russia compared to China, but occupational steady state mobility is comparable in all three countries. 
@@ -49,3 +49,32 @@ permalink: /
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 3:</strong> Gini index in China.</figcaption>
     </figure>
     </details>
+
+    ## Work in Progress
+
+1.  **Butaeva, K.**, Durlauf, S., & Shapoval A. *Intergenerational Mobility in Late Qing Dynasty (1783-1909): Evidence from Northeast China*.
+    <details>
+    <summary><strong>Abstract</strong></summary>
+    The paper examines intergenerational mobility during the last 130 years of the Qing dynasty. We identify two epochs within the 1783-1909 period of the Qing dynasty with different mobility dynamics. From 1783-1850, a stable mobility process appears to be present, leading to a convergence towards a steady state class distribution. The second epoch, 1850-1909, exhibits unstable class dynamics which continue to the end of the Qing dynasty.  The change in epochs is associated with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era may be found in mobility dynamics. We further find that, in the decades preceding the end of the Qing dynasty, a sustained deterioration in rates of upward mobility and an sustained increased in rates of downward mobility.These are potential candidate mechanisms for the Qing dynasty's end. As such, we argue the basic facts of late Qing mobility may give insights into broad historical phenomena. 
+    </details>
+
+2.  **Butaeva, K.**, Durlauf, S., Wang W., & Wodtke G. *Class Mobility in the Era of Rising Inequality: A Synthetic Dynasty Analysis*.
+    <details>
+    <summary><strong>Abstract</strong></summary>
+    Widely regarded as a barometer for equality of opportunity, intergenerational mobility has attracted renewed attention amid concerns that it may have declined in the wake of rising economic inequality since the 1970s. Although earlier research documents stability, or even modest increases, in mobility among cohorts who grew up or entered the labor market before this period, evidence for more recent cohorts is limited and highly inconsistent. This ambiguity is compounded by the nearly universal reliance on parametric models that impose restrictive assumptions on the pattern of change in mobility over time. We address these limitations by introducing a nonparametric approach to analyzing class mobility based on the ``synthetic dynasties" represented in Markov chains. This approach yields several new measures of mobility, including (i) steady-state mobility, defined as movement across classes in the Markov steady sate, where the marginal distribution of occupations is invariant, and (ii) intergenerational memory, which captures the rate at which the influence of class origins on destinations dissipates across generations. Applying these methods to data from the U.S., we find that both steady-state mobility and intergenerational memory have remained stable across cohorts born since 1945. This stability, however, masks offsetting class-specific trends. Among those from the upper and lower classes, movement has declined and memory has increased slightly. In contrast, among the middle classes, movement has risen and memory has weakened.
+    </details>
+    
+3.  **Butaeva, K.**, & Durlauf, S. *Statistical Models of Intergenerational Mobility. Handbook of the Economics of Intergenerational Mobility*.
+    <details>
+    <summary><strong>Abstract</strong></summary>
+    This chapter will explore statistical measures of intergenerational mobility, using a stochastic process perspective to unify the many mobility statistics that have been employed by social scientists. While regression and Markov chain models will receive primary focus, we will consider new methods such as trajectory based mobility analysis as well. Particular attention will be given to the ways in which scalar mobility measures preserve or lose information relative to general characterizations of the probability distributions of adult outcomes conditional on features of their childhood and adolescence.
+    </details>
+
+4.  **Butaeva, K.** *Income Mobility and Public Goods: Evidence from Chinese Provinces*.
+    <details>
+    <summary><strong>Abstract</strong></summary>
+    In this paper, we extend the Bergstrom, Blume, and Varian (1986) mo model of voluntary provision of public goods so that individuals also care about income mobility when deciding on their private contributions. To address this feature we incorporate an additional term in the individual utility function. This term accounts for the expected change in the distance between an individual's income rank and the mean income rank across time periods. We claim that a higher degree of mobility reduces the distance to mean income rank, which scales up the individual identification with society and raises the willingness to contribute to public goods. Using the data from the China Household Finance Survey (CHFS), we estimate income mobility in 29 Chinese provinces in 2014 and 2016 and test our theoretical predictions. We find that a narrower expected gap between an individual's income rank and the mean income rank in the future, reflecting a higher level of provincial mobility, strengthens the willingness of people to pay for environmental protection. These results are robust to controlling for the effects of income expectations, income inequality, and linguistic heterogeneity.
+    </details>
+
+  5.  **Butaeva, K.**, Sha, W. *Wars and Nationalism in Russia*.
+    
