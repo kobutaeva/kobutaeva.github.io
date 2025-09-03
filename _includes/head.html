@@ -37,7 +37,17 @@
   line-height: 1.1;
 }
 
+/* Increase width of main content area */
+.page {
+  max-width: 1200px !important; /* Default is usually 1024px or less */
+}
 
+.page__content {
+  max-width: 900px !important; /* Increase text content width */
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+  
 // Nicer link colors Optional: Specific targeting for sidebar links
 /* Target only text links inside your content paragraphs */
 .page__content p a {
@@ -71,3 +81,5 @@
 }
 </style>
 </head>
+
+
