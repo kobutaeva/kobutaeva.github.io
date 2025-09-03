@@ -1,15 +1,12 @@
-scss
-/* Custom CSS to enlarge the author profile photo */
+---
+---
+
+/* Your custom CSS below */
 .author__avatar {
   img {
-    // Adjust the width and height. 200px is a good starting point.
     width: 400px !important;
     height: 400px !important;
-
-    // This makes the square image a circle
     border-radius: 50% !important;
-
-    // Optional: Adds a subtle border
     border: 5px solid #f2f3f3 !important;
   }
 }
