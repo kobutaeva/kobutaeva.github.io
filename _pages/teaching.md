@@ -4,18 +4,23 @@ permalink: /teaching/
 layout: single
 ---
 
-### Teaching Philosophy
-
-A brief paragraph about your approach to teaching and mentoring.
-
 ### Courses Taught
 
 **University of Chicago**
-*   **PPHA 12345: Name of Course** (Spring 2024)  
-    *Role: Instructor of Record*  
-    A short description of the course. [Syllabus](/assets/syllabi/syllabus_spring2024.pdf)
+*   **The Inequality Working Group: Stone Center Research Seminar** (Spring 2025)  
+    *Role: Co-instructor together with Prof. Steven N. Durlauf and Prof. Geoffrey T. Wodtke*  
+    [🔗 WEB](https://stonecenter.uchicago.edu/the-inequality-working-group-iwg/)
+*   **ECON 34930 Inequality: Theory, Methods, and Evidence (graduate)** (Spring 2025)  
+    *Role: Guest lecturer*
+    *Course instructor: Prof. Steven N. Durlauf*
 
-**Previous University**
-*   **ECON 101: Introduction to Economics** (Fall 2021)  
+**Hong Kong University of Science and Technology (HKUST)**
+*   **SOSC 1850 Understanding Society (undergraduate)** (Fall 2020)  
     *Role: Teaching Assistant*  
-    Responsibilities included leading discussion sections and grading. [Syllabus](/assets/syllabi/syllabus_econ101.pdf)
+    *Course instructor: Prof. Julian McAllister Groves*
+*   **SOSC 5110 Social Science Research Design and Methods (graduate)** (Fall 2019)  
+    *Role: Teaching Assistant*  
+    *Course instructor: Prof. Jin Wang*
+*   **SOSC 4260 China’s Economic Transformation (graduate)** (Spring 2019)  
+    *Role: Teaching Assistant*  
+    *Course instructor: Prof. Albert F. Park*
