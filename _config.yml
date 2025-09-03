@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default","air", "aqua", "contrast", "da
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Kristina Butaeva"
+title                    : #"Kristina Butaeva"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kristina Butaeva"
@@ -121,8 +121,8 @@ author:
   email            :
   links:
     - label: "CV"
-      icon: "fa-regular fa-file"
-      url: "https://kobutaeva.github.io/minimal-mistakes/assets/Kristina_Butaeva_CV_19_Aug_2025.pdf"
+      #icon: "fa-regular fa-file"
+      #url: "https://kobutaeva.github.io/minimal-mistakes/assets/Kristina_Butaeva_CV_19_Aug_2025.pdf"
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:butaeva.k.o@gmail.com"
