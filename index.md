@@ -25,6 +25,7 @@ permalink: /
     </figure>
     </details>
 
+
 2.  **Butaeva, K.**, & Park, A. (2025). *Income Inequality in Chinese Provinces: The Role of Human Capital*. [🔗 SSRN](https://ssrn.com/abstract=5245777)
      
     <details>
@@ -37,6 +38,7 @@ permalink: /
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 1:</strong> Gini index in Chinese provinces.</figcaption>
     </figure>
     </details>
+
 
 3.  **Butaeva, K.** (2025). *Income Inequality in China, 2012-2018: A New Measurement Approach*. [🔗 SSRN](https://ssrn.com/abstract=5185428)  
 
