@@ -1,9 +1,17 @@
 ---
 ---
-/* Nuclear option: very specific selector */
-.author__avatar .avatar {
-  width: 300px !important;
-  height: 300px !important;
-  border-radius: 50% !important;
-  border: 5px solid #f2f3f3 !important;
+
+// Import the theme's main stylesheet so we can override things
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Now, add your custom overrides AFTER the imports
+// Your custom CSS will now override the theme's rules
+.author__avatar {
+  .avatar {
+    width: 300px !important;
+    height: 300px !important;
+    border-radius: 50% !important;
+    border: 5px solid #f2f3f3 !important;
+  }
 }
