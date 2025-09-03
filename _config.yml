@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Kristina Butaeva"
   avatar           : "/assets/Kristina1_small.jpg"
-  bio              : "I am a Postdoctoral Scholar at the Stone Center at the University of Chicago. My research interests include inequality, intergenerational mobility, and social diversity."
+  bio              : "I am a Postdoctoral Scholar at the UChicago Stone Center. My research interests include inequality, intergenerational mobility, and social diversity."
   location         : "Chicago"
   email            :
   links:
     - label: "CV"
       icon: "fa-regular fa-file"
-      url: "/assets/Kristina_Butaeva_CV_19_Aug_2025.pdf"
+      url: "https://gitgub.com/kobutaeva/minimal-mistakes/assets/Kristina_Butaeva_CV_19_Aug_2025.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:butaeva.k.o@gmail.com"
