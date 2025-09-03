@@ -1,3 +1,9 @@
+title: ""
+layout: single
+author_profile: true
+permalink: /
+---
+
 ## Working Papers
 
 1.  **Butaeva, K.**, Chen, L., Durlauf, S. N., & Park, A. (2025). *A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning*.
