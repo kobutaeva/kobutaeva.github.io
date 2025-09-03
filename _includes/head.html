@@ -39,10 +39,22 @@
 
 /* NUCLEAR OPTION FOR MINIMAL MISTAKES CONTRAST SCHEME */
 
-  /* Specific targeting for single layout used in homepage */
-.layout--single .page__content {
-  max-width: 1400px !important;
+/* Target ONLY the homepage body class */
+.layout--home .page__content {
+  max-width: 1000px !important;
   width: 90% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Make sidebar narrower on homepage only */
+.layout--home .sidebar {
+  width: 180px !important;
+}
+
+.layout--home .main {
+  margin-left: 200px !important;
+  width: calc(100% - 200px) !important;
 }
 
   
