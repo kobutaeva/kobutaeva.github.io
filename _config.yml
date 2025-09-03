@@ -14,9 +14,6 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Add this:
-include:
-  - assets/css/custom.css
   
 # Site Settings
 locale                   : "en-US"
