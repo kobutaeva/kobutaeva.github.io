@@ -37,12 +37,26 @@
   line-height: 1.1;
 }
 
-/* Increase text width on homepage */
-.home .page__content {
-  max-width: 1200px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+/* NUCLEAR OPTION FOR MINIMAL MISTAKES CONTRAST SCHEME */
+/* Force wider layout container */
+body > .container {
+  max-width: 1400px !important;
+  width: 95% !important;
 }
+
+/* Force wider page content */
+.page {
+  max-width: 1200px !important;
+  width: 90% !important;
+  margin: 0 auto !important;
+}
+
+  /* Specific targeting for single layout used in homepage */
+.layout--single .page__content {
+  max-width: 1000px !important;
+  width: 90% !important;
+}
+
   
 // Nicer link colors Optional: Specific targeting for sidebar links
 /* Target only text links inside your content paragraphs */
