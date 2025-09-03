@@ -1,5 +1,9 @@
-.author__avatar {
-  width: 300px;  /* default is 90px */
-  height: 300px; /* maintain square shape */
-  border-radius: 50%; /* keep it circular */
+---
+---
+/* Nuclear option: very specific selector */
+.author__avatar .avatar {
+  width: 300px !important;
+  height: 300px !important;
+  border-radius: 50% !important;
+  border: 5px solid #f2f3f3 !important;
 }
