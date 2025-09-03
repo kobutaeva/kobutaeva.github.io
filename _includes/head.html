@@ -33,41 +33,26 @@
 <style>
 /* 1. Make font smaller in markdown content */
 .page__content {
-  font-size: 0.9em;
-  line-height: 1.4;
+  font-size: 0.7em;
+  line-height: 1.1;
 }
 
-/* 2. Change ALL link colors to a nicer blue */
+// Nicer link colors
 a {
   color: #1a73e8 !important;
 }
+
 a:hover {
   color: #174ea6 !important;
   text-decoration: underline;
 }
 
-/* 3. Fix avatar size */
-.author__avatar .u-photo {
-  width: 200px !important;
-  height: 200px !important;
-  max-width: none !important;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 5px solid #f2f3f3;
+// Optional: Specific targeting for sidebar links
+.sidebar a {
+  color: #1a73e8 !important;
 }
 
-/* 4. Remove contrast filter for colorful icons */
-.sidebar .author__urls-social i.svg-inline--fa {
-  filter: none !important;
-  -webkit-filter: none !important;
-}
 
-/* 5. Make CV link RoyalBlue */
-.author__urls-wrapper a[data-label="CV"] {
-  color: RoyalBlue !important;
-}
-.author__urls-wrapper a[data-label="CV"]:hover {
-  color: DarkBlue !important;
-}
+
 </style>
 </head>
