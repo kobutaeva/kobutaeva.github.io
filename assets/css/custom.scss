@@ -1,12 +1,14 @@
 ---
 ---
 
-/* Your custom CSS below */
-.author__avatar {
-  img {
-    width: 400px !important;
-    height: 400px !important;
-    border-radius: 50% !important;
-    border: 5px solid #f2f3f3 !important;
+/* Target the specific link that contains the avatar */
+.author__avatar-link {
+  #avatar-wrapper {
+    .avatar {
+      width: 300px !important;
+      height: 300px !important;
+      border-radius: 50% !important;
+      border: 5px solid #f2f3f3 !important;
+    }
   }
 }
