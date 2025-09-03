@@ -8,10 +8,11 @@ permalink: /
 ## Working Papers
 
 1.  **Butaeva, K.**, Chen, L., Durlauf, S. N., & Park, A. (2025). *A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning*.
+     [🔗 NBER](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=12345)
+    <details>
+    <summary><strong>Abstract</strong></summary>
+    This paper examines intergenerational mobility in China and Russia during their transitions from central planning to market systems. We consider mobility as movement captured by changes in status between parents and children. We provide estimates of overall mobility, which involves mobility during transition to a system's steady state, as well as steady state mobility, which captures long-run mobility independent of transitional dynamics or shifts in the marginal distribution of outcomes across generations. We further decompose overall mobility into structural and exchange components. We find that China exhibits more overall educational mobility than Russia mostly due to greater structural mobility, while Russia exhibits greater steady state educational mobility. In contrast, both the overall and steady state occupational mobility is similar in China and Russia. Comparing these results to the US, we find that steady state mobility in education is substantially higher in the US and Russia compared to China, but occupational steady state mobility is comparable in all three countries.  
     
-    **Abstract:** This paper examines intergenerational mobility in China and Russia during their transitions from central planning to market systems. We consider mobility as movement captured by changes in status between parents and children. We provide estimates of overall mobility, which involves mobility during transition to a system's steady state, as well as steady state mobility, which captures long-run mobility independent of transitional dynamics or shifts in the marginal distribution of outcomes across generations. We further decompose overall mobility into structural and exchange components. We find that China exhibits more overall educational mobility than Russia mostly due to greater structural mobility, while Russia exhibits greater steady state educational mobility. In contrast, both the overall and steady state occupational mobility is similar in China and Russia. Comparing these results to the US, we find that steady state mobility in education is substantially higher in the US and Russia compared to China, but occupational steady state mobility is comparable in all three countries.  
-    [🔗 NBER](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=12345)
-
     <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
       <img src="https://kobutaeva.github.io/minimal-mistakes/assets/fig9_bcdp.png" alt="Main finding" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 9:</strong> Dynamics of overall, structural, and exchange educational mobility.</figcaption>
@@ -21,6 +22,7 @@ permalink: /
       <img src="https://kobutaeva.github.io/minimal-mistakes/assets/fig16_bcdp.png" alt="Main finding" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 16:</strong> Dynamics of overall, structural, and exchange occupational mobility.</figcaption>
     </figure>
+    <details>
 
 3.  **Butaeva, K.**, & Park, A. (2025). *Income Inequality in Chinese Provinces: The Role of Human Capital*.  
 
