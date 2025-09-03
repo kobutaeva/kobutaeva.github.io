@@ -1,12 +1,24 @@
 ---
 ---
 
-// Make CV link RoyalBlue
-.author__links a[data-label="CV"] {
+// Make CV link RoyalBlue (CORRECT SELECTOR)
+.author__urls-wrapper a[data-label="CV"] {
   color: RoyalBlue !important;
 }
 
-// Optional: Change color on hover
-.author__links a[data-label="CV"]:hover {
-  color: DarkBlue !important; /* Darker shade on hover */
+// Change CV color on hover
+.author__urls-wrapper a[data-label="CV"]:hover {
+  color: DarkBlue !important;
+}
+
+// Override the contrast skin filter for sidebar icons (CORRECT SELECTOR)
+.sidebar__right .author__urls-social i {
+    filter: none !important;
+}
+
+// Add subtle hover effect to all social icons
+.sidebar__right .author__urls-social a:hover i {
+    opacity: 0.9;
+    transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
 }
