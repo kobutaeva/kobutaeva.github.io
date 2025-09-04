@@ -14,12 +14,12 @@ permalink: /
     
     
     <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/minimal-mistakes/assets/fig9_bcdp.png" alt="Main finding" style="width: 900px; height: auto;">
+      <img src="https://kobutaeva.github.io/assets/fig9_bcdp.png" alt="Main finding" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 9:</strong> Dynamics of overall, structural, and exchange educational mobility.</figcaption>
     </figure>
 
     <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/minimal-mistakes/assets/fig16_bcdp.png" alt="Main finding" style="width: 900px; height: auto;">
+      <img src="https://kobutaeva.github.io/assets/fig16_bcdp.png" alt="Main finding" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 16:</strong> Dynamics of overall, structural, and exchange occupational mobility.</figcaption>
     </figure>
     </details>
@@ -32,7 +32,7 @@ permalink: /
     
     
     <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/minimal-mistakes/assets/fig_ch2.png" alt="Main finding" style="width: 900px; height: auto;">
+      <img src="https://kobutaeva.github.io/assets/fig_ch2.png" alt="Main finding" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 1:</strong> Gini index in Chinese provinces.</figcaption>
     </figure>
     </details>
@@ -45,7 +45,7 @@ permalink: /
     
     
     <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/minimal-mistakes/assets/fig1_ch1.png" alt="Main finding" style="width: 900px; height: auto;">
+      <img src="https://kobutaeva.github.io/assets/fig1_ch1.png" alt="Main finding" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 3:</strong> Gini index in China.</figcaption>
     </figure>
     </details>
