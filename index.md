@@ -76,5 +76,5 @@ permalink: /
     In this paper, I extend the Bergstrom, Blume, and Varian (1986) mo model of voluntary provision of public goods so that individuals also care about income mobility when deciding on their private contributions. To address this feature I incorporate an additional term in the individual utility function. This term accounts for the expected change in the distance between an individual's income rank and the mean income rank across time periods. I claim that a higher degree of mobility reduces the distance to mean income rank, which scales up the individual identification with society and raises the willingness to contribute to public goods. Using the data from the China Household Finance Survey (CHFS), I estimate income mobility in 29 Chinese provinces in 2014 and 2016 and test our theoretical predictions. I find that a narrower expected gap between an individual's income rank and the mean income rank in the future, reflecting a higher level of provincial mobility, strengthens the willingness of people to pay for environmental protection. These results are robust to controlling for the effects of income expectations, income inequality, and linguistic heterogeneity.
     </details>
 
-  5.  **Butaeva, K.**, Sha, W. *Wars and Nationalism in Russia*.
+ 
     
