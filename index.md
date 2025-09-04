@@ -4,8 +4,12 @@ layout: single
 author_profile: true
 permalink: /
 ---
+## Research Interests
 
-I am an applied microeconomist specializing in labor and public economics. My research interests include inequality, intergenerational mobility, and social heterogeneity, with a regional focus on Russia, China, and the United States.
+<p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 1em;">
+  I am an applied microeconomist specializing in labor and public economics. My research interests include inequality ⚖️, intergenerational mobility 📈, and social heterogeneity 👥, with a regional focus on Russia, China, and the United States 🗺️.
+</p>
+
 
 ## Working Papers
 
