@@ -7,7 +7,7 @@ permalink: /
 ## Research Interests
 
 <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 2em;">
-  I am an applied microeconomist specializing in labor and public economics. My research interests include <em>inequality</em>, <em>intergenerational mobility</em>, and <em>social heterogeneity</em>, with a regional focus on Russia, China, and the United States.
+  I am an applied microeconomist specializing in labor and public economics. My research interests include inequality, intergenerational mobility, and social heterogeneity, with a regional focus on Russia, China, and the United States.
 </p>
 
 
@@ -56,7 +56,7 @@ permalink: /
     </figure>
     </details>
 
-   ## Work in Progress
+## Work in Progress
 
 1.  **Butaeva, K.**, Durlauf, S., & Shapoval A. *Intergenerational Mobility in Late Qing Dynasty (1783-1909): Evidence from Northeast China*.
     <details>
