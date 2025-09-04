@@ -5,6 +5,8 @@ author_profile: true
 permalink: /
 ---
 
+I am an applied microeconomist specializing in labor and public economics. My research interests include inequality, intergenerational mobility, and social heterogeneity, with a regional focus on Russia, China, and the United States.
+
 ## Working Papers
 
 1.  **Butaeva, K.**, Chen, L., Durlauf, S., & Park, A. (2025). *A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning*. [🔗 NBER](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=12345) 
