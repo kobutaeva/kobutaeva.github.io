@@ -12,7 +12,7 @@ layout: single
 2.  **Butaeva, K.** (2017). Composite Semi-Parametric Model of Income Distribution in Russia [in Russian]. *Modern Economics: Problems and Solutions*, 5(89), 43-48.     
     [🔗 PDF](https://journals.vsu.ru/meps/)
 
-3.  **Butaeva, K.** (2017). *Title of Your Second Paper*. Composite Semi-Parametric Model of Income Distribution in Russia [in Russian]. *Vestnik Tyumenskogo Gosudarstvennogo Universiteta. Sotsial’no-ekonomicheskie i Pravovye Issledovaniya*, 3(3), 71-86.     
+3.  **Butaeva, K.** (2017). Income Inequality as an Object of Economic Research in the Context of Analyzing the Standard of Living and Public Welfare [in Russian]. *Vestnik Tyumenskogo Gosudarstvennogo Universiteta. Sotsial’no-ekonomicheskie i Pravovye Issledovaniya*, 3(3), 71-86.     
     [🔗 PDF](https://vestnik.utmn.ru/sociology/vypuski/2017-tom-3/3/467406/)
 
 4.  **Butaeva, K.** (2016). Considering the Problem of Personal Income Distribution in Russia [in Russian]. *Living Standards of the Population in the Regions of Russia*, (2), 130-136.     
