@@ -55,9 +55,10 @@ permalink: /
       <img src="https://kobutaeva.github.io/assets/fig1_ch1.png" alt="Main finding" style="width: 900px; height: auto; clear: both">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 3:</strong> Gini index in China.</figcaption>
     </figure>
-    </details>
-
-
+    <div style="clear: both;"></div>
+    </details> 
+    
+ <div style="clear: both;"></div>
 
 ## Work in Progress
 
