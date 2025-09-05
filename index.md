@@ -52,7 +52,7 @@ permalink: /
     
     
     <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/assets/fig1_ch1.png" alt="Main finding" style="width: 900px; height: auto;">
+      <img src="https://kobutaeva.github.io/assets/fig1_ch1.png" alt="Main finding" style="width: 900px; height: auto; clear: both">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 3:</strong> Gini index in China.</figcaption>
     </figure>
     </details>
