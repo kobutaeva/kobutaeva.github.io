@@ -38,7 +38,7 @@ permalink: /
     In this paper, we conduct the first systematic empirical analysis of income inequality in China at the provincial level. Using data from the China Household Finance Survey (CHFS) and a semiparametric distribution model, we estimate Gini indices for Chinese provinces in 2012, 2014, 2016, and 2018. We find that differences in the "prices" and "quantities" of human capital are important factors in explaining differences in inequality between provinces. Poor provinces have higher levels of inequality because they have higher educational inequality, higher returns to schooling, and lower average educational attainment. We conclude that the reduction of existing interprovincial human capital gaps and the acceleration of labor market integration through appropriate government policies could reduce spatial disparities in inequality levels across regions and overall income inequality in China.
     
     
-    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+    <figure style="width: 95%; margin-left: 20px; margin-bottom: 20px;">
       <img src="https://kobutaeva.github.io/assets/fig_ch2.png" alt="Main finding" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 1:</strong> Gini index in Chinese provinces.</figcaption>
     </figure>
