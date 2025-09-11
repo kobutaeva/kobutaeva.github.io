@@ -10,7 +10,7 @@ layout: single
     *Role: Co-instructor together with Prof. Steven N. Durlauf and Prof. Geoffrey T. Wodtke*  
     [🔗 WEB](https://stonecenter.uchicago.edu/the-inequality-working-group-iwg/)
 *   **ECON 34930: Inequality: Theory, Methods, and Evidence (graduate)** (Spring 2025)  
-    *Role: Guest lecturer*
+    *Role: Guest Lecturer*  
     *Course instructor: Prof. Steven N. Durlauf*
 
 **Hong Kong University of Science and Technology (HKUST)**
