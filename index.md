@@ -31,6 +31,12 @@ permalink: /
     </figure>
     </details>
 
+    <details style="text-align: justify;">
+    <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Media Coverage</strong></summary>
+    The University of Chicago Harris School of Public Policy [🔗](https://harris.uchicago.edu/news-events/news/tale-two-transitions-new-harris-research-unpacks-intergenerational-mobility-china)<br>
+    Becker Friedman Institute for Economics at University of Chicago [🔗](https://bfi.uchicago.edu/insights/a-tale-of-two-transitions-mobility-dynamics-in-china-and-russia-after-central-planning/)
+    </details>
+
 
 2.  **Butaeva, K.**, & Park, A. (2025). *Income Inequality in Chinese Provinces: The Role of Human Capital*. [🔗 SSRN](https://ssrn.com/abstract=5245777)  
     <details style="text-align: justify;">
