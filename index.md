@@ -33,8 +33,8 @@ permalink: /
 
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Media Coverage</strong></summary>
-    The University of Chicago Harris School of Public Policy [🔗](https://harris.uchicago.edu/news-events/news/tale-two-transitions-new-harris-research-unpacks-intergenerational-mobility-china)<br>
-    Becker Friedman Institute for Economics at University of Chicago [🔗](https://bfi.uchicago.edu/insights/a-tale-of-two-transitions-mobility-dynamics-in-china-and-russia-after-central-planning/)
+    The University of Chicago Harris School of Public Policy <a href="https://harris.uchicago.edu/news-events/news/tale-two-transitions-new-harris-research-unpacks-intergenerational-mobility-china" target="_blank">🔗</a><br>
+    Becker Friedman Institute for Economics at University of Chicago <a href="https://bfi.uchicago.edu/insights/a-tale-of-two-transitions-mobility-dynamics-in-china-and-russia-after-central-planning/" target="_blank">🔗</a>
     </details>
 
 
