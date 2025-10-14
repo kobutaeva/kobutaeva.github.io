@@ -30,4 +30,4 @@ layout: single
 
 ---
 
-<sup>★</sup> K1, <sup>★★</sup> K2, <sup>★★★</sup> K3 denote journal categories based on their level of scientific authority and citation rates, as defined by the 2025 Russian Higher Attestation Commission (VAK) Journal Ranking [🔗 PDF](https://progressive-economy.ru/wp-content/uploads/2024/01/Итоговое-рейтингование_финал_ред.pdf)
+<sup>★</sup> K1, <sup>★★</sup> K2, <sup>★★★</sup> K3 denote journal categories as defined by the 2025 Russian Higher Attestation Commission (VAK) Journal Ranking [🔗 PDF](https://progressive-economy.ru/wp-content/uploads/2024/01/Итоговое-рейтингование_финал_ред.pdf)
