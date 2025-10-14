@@ -24,4 +24,4 @@
 
 ---
 
-<sup>★</sup> К1, <sup>★★</sup> К2, <sup>★★★</sup> К3 denote journal rankings according to the Russian Higher Attestation Commission (ВАК) classification system. Source: Higher Attestation Commission Journal Ranking 2025 [🔗 PDF](https://progressive-economy.ru/wp-content/uploads/2024/01/Итоговое-рейтингование_финал_ред.pdf)
+<sup>★</sup> Q1, <sup>★★</sup> Q2, <sup>★★★</sup> Q3 denote journal rankings according to the Russian Higher Attestation Commission Journal Ranking 2025 [🔗 PDF](https://progressive-economy.ru/wp-content/uploads/2024/01/Итоговое-рейтингование_финал_ред.pdf)
