@@ -1,5 +1,29 @@
-<!-- start custom head snippets -->
+<style>
+:root {
+  --font-family-base: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  --font-family-heading: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
 
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
+body {
+  font-family: var(--font-family-base);
+  font-feature-settings: "smcp" on; /* Enable small caps */
+  font-variant: small-caps;
+}
 
-<!-- end custom head snippets -->
+h1, h2, h3, h4, h5, h6, .page__title, .archive__item-title {
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  font-variant: small-caps;
+}
+
+/* Math and code should use different fonts */
+code, kbd, pre, samp {
+  font-family: "Courier New", Courier, monospace;
+  font-variant: normal;
+}
+
+/* Small caps for specific elements like author names */
+.author__name, .nav__title, .archive__item-title {
+  font-variant: small-caps;
+}
+</style>
