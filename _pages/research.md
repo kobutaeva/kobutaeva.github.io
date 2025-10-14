@@ -1,3 +1,9 @@
+---
+title: "Research"
+permalink: /research/
+layout: single
+---
+
 ### Journal Articles in Russian
 
 1.  **Butaeva, K.**, Weber, S., & Davydov, D. V. (2018). Sports Mega Events Effectiveness Analysis: The Economists' View [in Russian]. *Voprosy Ekonomiki*<sup>★</sup>, (7), 149–160.   
