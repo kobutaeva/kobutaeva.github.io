@@ -33,8 +33,9 @@ permalink: /
 
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Media</strong></summary>
-    The University of Chicago Harris School of Public Policy <a href="https://harris.uchicago.edu/news-events/news/tale-two-transitions-new-harris-research-unpacks-intergenerational-mobility-china" target="_blank">🔗</a><br>
-    Becker Friedman Institute for Economics at University of Chicago <a href="https://bfi.uchicago.edu/insights/a-tale-of-two-transitions-mobility-dynamics-in-china-and-russia-after-central-planning/" target="_blank">🔗</a>
+    A Tale of Two Transitions: New Harris Research Unpacks Intergenerational Mobility in China and Russia. (2025, September 16). <i>The University of Chicago Harris School of Public Policy.</i> <a href="https://harris.uchicago.edu/news-events/news/tale-two-transitions-new-harris-research-unpacks-intergenerational-mobility-china" target="_blank">URL🔗</a><br>
+    A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning. (2025, September 3). <i>Becker Friedman Institute for Economics at University of Chicago.</i> <a href="https://bfi.uchicago.edu/insights/a-tale-of-two-transitions-mobility-dynamics-in-china-and-russia-after-central-planning/" target="_blank">URL🔗</a><br>
+    Shifting Generations: How Market Reforms Changed Social Mobility in China and Russia. (2025, October 8). <i>Devdiscourse.</i> <a href="https://www.devdiscourse.com/article/other/3653780-shifting-generations-how-market-reforms-changed-social-mobility-in-china-and-russia" target="_blank">URL🔗</a>
     </details>
 
 
