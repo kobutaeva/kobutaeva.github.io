@@ -33,7 +33,7 @@ permalink: /
 
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Media</strong></summary>
-    <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.8;">
+    <ul style="list-style-type: disc; margin-left: 20px; ">
         <li style="margin-bottom: 15px;">
             A Tale of Two Transitions: New Harris Research Unpacks Intergenerational Mobility in China and Russia. (2025, September 16). <i>The University of Chicago Harris School of Public Policy.</i> <a href="https://harris.uchicago.edu/news-events/news/tale-two-transitions-new-harris-research-unpacks-intergenerational-mobility-china" target="_blank">URL🔗</a>
         </li>
