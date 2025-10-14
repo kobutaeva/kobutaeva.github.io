@@ -43,8 +43,8 @@ permalink: /
         <li style="margin-bottom: 15px;">
             Shifting Generations: How Market Reforms Changed Social Mobility in China and Russia. (2025, October 8). <i>Devdiscourse.</i> <a href="https://www.devdiscourse.com/article/other/3653780-shifting-generations-how-market-reforms-changed-social-mobility-in-china-and-russia" target="_blank">URL🔗</a>
         </li>
-    </ul>
-</details>
+     </ul>
+    </details>
 
 
 2.  **Butaeva, K.**, & Park, A. (2025). *Income Inequality in Chinese Provinces: The Role of Human Capital*. [🔗 SSRN](https://ssrn.com/abstract=5245777)  
