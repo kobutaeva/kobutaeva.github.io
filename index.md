@@ -14,7 +14,7 @@ permalink: /
 
 ## Working Papers
 
-1.  **Butaeva, K.**, Chen, L., Durlauf, S., & Park, A. (2025). *A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning*. [🔗 NBER](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=12345) 
+1.  **Butaeva, K.**, Chen, L., Durlauf, S., & Park, A. (2025). *A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning*. [🔗 NBER](https://www.nber.org/papers/w34124) 
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
     This paper examines intergenerational mobility in China and Russia during their transitions from central planning to market systems. We consider mobility as movement captured by changes in status between parents and children. We provide estimates of overall mobility, which involves mobility during transition to a system's steady state, as well as steady state mobility, which captures long-run mobility independent of transitional dynamics or shifts in the marginal distribution of outcomes across generations. We further decompose overall mobility into structural and exchange components. We find that China exhibits more overall educational mobility than Russia mostly due to greater structural mobility, while Russia exhibits greater steady state educational mobility. In contrast, both the overall and steady state occupational mobility is similar in China and Russia. Comparing these results to the US, we find that steady state mobility in education is substantially higher in the US and Russia compared to China, but occupational steady state mobility is comparable in all three countries. 
