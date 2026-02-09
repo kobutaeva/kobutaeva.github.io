@@ -21,22 +21,22 @@ permalink: /
     
 
     <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/assets/p_overall_evolution.png" alt="Main finding" style="width: 900px; height: auto;">
+      <img src="https://kobutaeva.github.io/assets/p_overall_evolution.png" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 3:</strong> Overall mobility across synthetic generations.</figcaption>
     </figure>
 
     <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/assets/MTE_class.png" alt="Main finding" style="width: 900px; height: auto;">
+      <img src="https://kobutaeva.github.io/assets/MTE_class.png" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 4:</strong> Mean time to exit from each origin class.</figcaption>
     </figure>
 
     <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/assets/p_AIM_initial.png" alt="Main finding" style="width: 900px; height: auto;">
+      <img src="https://kobutaeva.github.io/assets/p_AIM_initial.png" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 5:</strong> Aggregate intergenerational memory at generation t=1.</figcaption>
     </figure>
 
     <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/assets/p_IM_initial.png" alt="Main finding" style="width: 900px; height: auto;">
+      <img src="https://kobutaeva.github.io/assets/p_IM_initial.png" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 7:</strong> Intergenerational memory at generation t=1 by origin class.</figcaption>
     </figure>
     </details>
