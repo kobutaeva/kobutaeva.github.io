@@ -17,8 +17,28 @@ permalink: /
 1.  Wodtke G., Wang W., **Butaeva, K.**, & Durlauf, S. *Class Mobility in the Era of Rising Inequality: A Synthetic Dynasty Analysis*. [🔗 NBER](https://www.nber.org/papers/w34800) 
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
-    Widely regarded as a barometer for equality of opportunity, intergenerational mobility has attracted renewed attention amid concerns that it has declined in the wake of rising economic inequality since the 1970s. Although earlier research documents stability, or even modest increases, in mobility among cohorts who entered the labor market before this period, evidence for more recent cohorts is limited and inconsistent. In this study, we analyze contemporary trends in class mobility using a new approach based on the ``synthetic dynasties" represented in Markov chains. This approach yields several novel measures of \textit{movement} and \textit{memory}, which respectively capture how class positions differ from one generation to the next and how the influence of class origins dissipates across generations. Applying these methods to data from the U.S., we find that overall levels of movement and memory have remained largely stable across cohorts born between 1945 and 1990. This stability, however, masks offsetting class-specific trends. Among those from the upper and lower classes, movement has declined and memory has increased. In contrast, among the middle classes, movement has risen and memory has weakened.
+    Widely regarded as a barometer for equality of opportunity, intergenerational mobility has attracted renewed attention amid concerns that it has declined in the wake of rising economic inequality since the 1970s. Although earlier research documents stability, or even modest increases, in mobility among cohorts who entered the labor market before this period, evidence for more recent cohorts is limited and inconsistent. In this study, we analyze contemporary trends in class mobility using a new approach based on the "synthetic dynasties" represented in Markov chains. This approach yields several novel measures of movement and memory, which respectively capture how class positions differ from one generation to the next and how the influence of class origins dissipates across generations. Applying these methods to data from the U.S., we find that overall levels of movement and memory have remained largely stable across cohorts born between 1945 and 1990. This stability, however, masks offsetting class-specific trends. Among those from the upper and lower classes, movement has declined and memory has increased. In contrast, among the middle classes, movement has risen and memory has weakened.
     </details>
+
+    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/p_overall_evolution.png" alt="Main finding" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 3:</strong> Overall mobility across synthetic generations.</figcaption>
+    </figure>
+
+    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/MTE_class.png" alt="Main finding" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 4:</strong> Mean time to exit from each origin class.</figcaption>
+    </figure>
+
+    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/p_AIM_initial.png" alt="Main finding" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 5:</strong> Aggregate intergenerational memory at generation t=1.</figcaption>
+    </figure>
+
+    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/p_IM_initial.png" alt="Main finding" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 7:</strong> Intergenerational memory at generation t=1 by origin class.</figcaption>
+    </figure>
 
 2.  **Butaeva, K.**, Chen, L., Durlauf, S., & Park, A. (2025). *A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning*. [🔗 NBER](https://www.nber.org/papers/w34124) 
     <details style="text-align: justify;">
