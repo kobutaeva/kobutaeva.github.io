@@ -40,6 +40,15 @@ permalink: /
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 7:</strong> Intergenerational memory at generation t=1 by origin class.</figcaption>
     </figure>
     </details>
+    
+    <details style="text-align: justify;">
+    <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Media</strong></summary>
+    <ul style="list-style-type: disc; margin-left: 20px; ">
+        <li style="margin-bottom: 15px;">
+            Has Class Mobility in America Really Changed? New Research Finds a Complicated Answer. (2026, March 26). <i>UChicago News.</i> <a href="https://harris.uchicago.edu/news-events/news/has-class-mobility-america-really-changed-new-research-finds-complicated-answer)" target="_blank">URL🔗</a>
+        </li>
+     </ul>
+     </details>
 
 2.  **Butaeva, K.**, Chen, L., Durlauf, S., & Park, A. (2025, August). *A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning*. [🔗 NBER](https://www.nber.org/papers/w34124) 
     <details style="text-align: justify;">
