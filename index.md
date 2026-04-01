@@ -45,7 +45,7 @@ permalink: /
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Media</strong></summary>
     <ul style="list-style-type: disc; margin-left: 20px; ">
         <li style="margin-bottom: 15px;">
-            Has Class Mobility in America Really Changed? New Research Finds a Complicated Answer. (2026, March 26). <i>UChicago News.</i> <a href="https://harris.uchicago.edu/news-events/news/has-class-mobility-america-really-changed-new-research-finds-complicated-answer)" target="_blank">URL🔗</a>
+            Has Class Mobility in America Really Changed? New Research Finds a Complicated Answer. (2026, March 26). <i>UChicago News.</i> <a href="https://harris.uchicago.edu/news-events/news/has-class-mobility-america-really-changed-new-research-finds-complicated-answer" target="_blank">URL🔗</a>
         </li>
      </ul>
      </details>
