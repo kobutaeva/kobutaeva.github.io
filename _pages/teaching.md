@@ -6,10 +6,10 @@ layout: single
 
 
 **University of Chicago**
-*   **The Inequality Working Group: Stone Center Research Seminar** (Spring 2025)  
+*   **The Inequality Working Group: Stone Center Research Seminar** (Spring 2025, 2026)  
     *Role: Co-instructor together with Prof. Steven N. Durlauf and Prof. Geoffrey T. Wodtke*  
-    [🔗 WEB](https://stonecenter.uchicago.edu/the-inequality-working-group-iwg/)
-*   **ECON 34930: Inequality: Theory, Methods, and Evidence (graduate)** (Spring 2025)  
+    [🔗 WEB 2025](https://stonecenter.uchicago.edu/the-inequality-working-group-iwg/), [🔗 WEB 2026](https://stonecenter.uchicago.edu/inequality-working-group-2025-2026/)
+*   **ECON 34930: Inequality: Theory, Methods, and Evidence (graduate)** (Spring 2025, 2026)  
     *Role: Guest Lecturer*  
     *Course instructor: Prof. Steven N. Durlauf*
 
