@@ -52,7 +52,19 @@ permalink: /
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
    This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.
+
+   
+    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/qing_fig4.png" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 4:</strong> Dynamics of the Probability of Changing Class.</figcaption>
+    </figure>
+
+    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/qing_fig7.png" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 7:</strong> Dynamics of the Shannon Entropy: Cross-Sectional Data.</figcaption>
+    </figure>
     </details>
+    
 
 3.  Wodtke G., Wang W., **Butaeva, K.**, & Durlauf, S. (2026, February). *Class Mobility in the Era of Rising Inequality: A Synthetic Dynasty Analysis*. [🔗 NBER](https://www.nber.org/papers/w34800) 
     <details style="text-align: justify;">
