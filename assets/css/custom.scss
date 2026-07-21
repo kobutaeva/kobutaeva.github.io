@@ -1,14 +1,34 @@
 ---
 ---
+
+/* Masthead: accent underline; hide title text to avoid duplicating sidebar name */
 .masthead {
   border-bottom: 2px solid #185FA5;
 }
-.site-title {
-  font-family: "Lora", Georgia, serif;
-  font-weight: 600;
-  font-size: 1.6em;
-  letter-spacing: 0.01em;
+.masthead .site-title {
+  display: none;
 }
+
+/* Sidebar author name in navy accent */
+.author__name {
+  color: #0C447C;
+}
+
+/* Unify ALL links (nav, body, NBER/SSRN references, Abstract/Media toggles) to one blue */
+a,
+a:visited,
+.page__content a,
+.page__content details summary,
+.page__content details summary strong,
+.masthead__menu-item a {
+  color: #0C447C;
+}
+a:hover,
+.page__content a:hover,
+.page__content details summary:hover {
+  color: #185FA5;
+}
+
 .author__avatar img {
   max-width: 160px;
 }
