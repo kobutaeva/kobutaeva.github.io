@@ -12,21 +12,21 @@ $header-font-family: "Lora", Georgia, serif !default;
 $caption-font-family: "Lora", Georgia, serif !default;
 
 /* Custom navy accent palette */
-$primary-color: #0C447C !default;
-$link-color: #0C447C !default;
+$primary-color: #185FA5 !default;
+$link-color: #185FA5 !default;
 $link-color-hover: #0C447C !default;
-$link-color-visited: #0C447C !default;
+$link-color-visited: #534AB7 !default;
 $masthead-link-color: #0C447C !default;
-$masthead-link-color-hover: #0C447C !default;
-$navicon-link-color-hover: #0C447C !default;
+$masthead-link-color-hover: #185FA5 !default;
+$navicon-link-color-hover: #E6F1FB !default;
 $border-color: #D6E4F0 !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Masthead: accent underline; hide title text to avoid duplicating sidebar name */
+/* Masthead: no divider line under nav; hide title text to avoid duplicating sidebar name */
 .masthead {
-  border-bottom: none;
+  border-bottom: none !important;
 }
 .masthead .site-title {
   display: none;
@@ -34,22 +34,23 @@ $border-color: #D6E4F0 !default;
 
 /* Sidebar author name in navy accent */
 .author__name {
-  color: #0C447C;
+  color: #0C447C !important;
 }
 
-/* Unify ALL links (nav, body, NBER/SSRN references, Abstract/Media toggles) to one blue */
+/* Unify ALL links (nav, body, NBER/SSRN references, Abstract/Media toggles) to one blue, same weight as nav */
 a,
 a:visited,
 .page__content a,
 .page__content details summary,
 .page__content details summary strong,
 .masthead__menu-item a {
-  color: #0C447C;
+  color: #0C447C !important;
+  font-weight: 600;
 }
 a:hover,
 .page__content a:hover,
 .page__content details summary:hover {
-  color: #185FA5;
+  color: #185FA5 !important;
 }
 
 .author__avatar img {
@@ -68,27 +69,16 @@ a:hover,
   margin-bottom: 0.6em;
 }
 
-/* NUCLEAR OPTION: Remove all filters from sidebar icons */
-.sidebar .author__urls-social i.svg-inline--fa {
-    filter: none !important;
-    -webkit-filter: none !important;
-    color: inherit !important; /* This allows the original colors to show */
+/* Sidebar social icons: plain black, no brand colors, no filters */
+.sidebar .author__urls-social a,
+.sidebar .author__urls-social a i,
+.sidebar .author__urls-social a .label {
+  color: #000 !important;
+  filter: none !important;
+  -webkit-filter: none !important;
 }
 
-/* Force specific colors for each brand */
-.sidebar a[data-label="Google Scholar"] i { color: #4285F4 !important; } /* Google Blue */
-.sidebar a[data-label="ORCID"] i { color: #A6CE39 !important; } /* ORCID Green */
-.sidebar a[data-label="X"] i { color: #000000 !important; } /* X Black */
-.sidebar a[data-label="Email"] i { color: #EA4335 !important; } /* Gmail Red */
-.sidebar a[data-label="Bluesky"] i { color: #0085FF !important; } /* Bluesky Blue */
-.sidebar a[data-label="CV"] i { color: RoyalBlue !important; } /* CV RoyalBlue */
-
-/* Make the CV text RoyalBlue */
-.sidebar a[data-label="CV"] .btn__text {
-    color: RoyalBlue !important;
-}
-
-/* Hover effects */
+/* Hover effect: slight scale on icon only */
 .sidebar .author__urls-social a:hover i {
     opacity: 0.9;
     transform: scale(1.1);
