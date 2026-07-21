@@ -18,7 +18,7 @@ $link-color-hover: #0C447C !default;
 $link-color-visited: #0C447C !default;
 $masthead-link-color: #0C447C !default;
 $masthead-link-color-hover: #0C447C !default;
-$navicon-link-color-hover: #E6F1FB !default;
+$navicon-link-color-hover: #0C447C !default;
 $border-color: #D6E4F0 !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
