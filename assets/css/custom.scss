@@ -1,5 +1,29 @@
 ---
 ---
+.masthead {
+  border-bottom: 2px solid #185FA5;
+}
+.site-title {
+  font-family: "Lora", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.6em;
+  letter-spacing: 0.01em;
+}
+.author__avatar img {
+  max-width: 160px;
+}
+.author__content {
+  padding-top: 0.5em;
+}
+.page__content h2 {
+  border-bottom: 2px solid #D6E4F0;
+  padding-bottom: 0.3em;
+  margin-top: 1.8em;
+}
+.page__content ol > li,
+.page__content ul > li {
+  margin-bottom: 0.6em;
+}
 
 /* NUCLEAR OPTION: Remove all filters from sidebar icons */
 .sidebar .author__urls-social i.svg-inline--fa {
