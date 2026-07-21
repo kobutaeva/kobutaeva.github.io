@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Other Publications"
+  - title: "Publications"
     url: /research/
   - title: "Teaching"
     url: /teaching/
