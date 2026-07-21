@@ -15,7 +15,7 @@ $caption-font-family: "Lora", Georgia, serif !default;
 $primary-color: #0C447C !default;
 $link-color: #0C447C !default;
 $link-color-hover: #0C447C !default;
-$link-color-visited: #534AB7 !default;
+$link-color-visited: #0C447C !default;
 $masthead-link-color: #0C447C !default;
 $masthead-link-color-hover: #0C447C !default;
 $navicon-link-color-hover: #E6F1FB !default;
@@ -26,7 +26,7 @@ $border-color: #D6E4F0 !default;
 
 /* Masthead: accent underline; hide title text to avoid duplicating sidebar name */
 .masthead {
-  border-bottom: 2px solid #185FA5;
+  border-bottom: none;
 }
 .masthead .site-title {
   display: none;
