@@ -5,6 +5,8 @@ search: false
 
 @charset "utf-8";
 
+$sans-serif: "PT Serif", Georgia, serif !default;
+$global-font-family: $sans-serif !default;
 $header-font-family: "PT Serif", Georgia, serif !default;
 $caption-font-family: "PT Serif", Georgia, serif !default;
 
