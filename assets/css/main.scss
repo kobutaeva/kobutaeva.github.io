@@ -5,10 +5,10 @@ search: false
 
 @charset "utf-8";
 
-$sans-serif: "Merriweather", Georgia, serif !default;
+$sans-serif: "Libre Baskerville", Georgia, serif !default;
 $global-font-family: $sans-serif !default;
-$header-font-family: "Merriweather", Georgia, serif !default;
-$caption-font-family: "Merriweather", Georgia, serif !default;
+$header-font-family: "Libre Baskerville", Georgia, serif !default;
+$caption-font-family: "Libre Baskerville", Georgia, serif !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
