@@ -4,6 +4,19 @@ search: false
 ---
 
 @charset "utf-8";
+$sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif !default;
+$global-font-family: $sans-serif !default;
+$header-font-family: "Lora", Georgia, serif !default;
+$caption-font-family: "Lora", Georgia, serif !default;
+
+$primary-color: #185FA5 !default;
+$link-color: #185FA5 !default;
+$link-color-hover: #0C447C !default;
+$link-color-visited: #534AB7 !default;
+$masthead-link-color: #0C447C !default;
+$masthead-link-color-hover: #185FA5 !default;
+$navicon-link-color-hover: #E6F1FB !default;
+$border-color: #D6E4F0 !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
