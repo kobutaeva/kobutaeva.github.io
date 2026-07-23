@@ -1,5 +1,5 @@
 ---
-title: "Other Publications"
+title: ""
 permalink: /research/
 layout: single
 ---
