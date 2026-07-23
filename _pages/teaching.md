@@ -5,7 +5,7 @@ layout: single
 ---
 
 
-**University of Chicago**
+### University of Chicago
 *   **The Inequality Working Group: Stone Center Research Seminar** (Spring 2025, 2026)  
     *Role: Co-instructor together with Prof. Steven N. Durlauf and Prof. Geoffrey T. Wodtke*  
     [🔗 WEB 2025](https://stonecenter.uchicago.edu/the-inequality-working-group-iwg/), [🔗 WEB 2026](https://stonecenter.uchicago.edu/inequality-working-group-2025-2026/)
@@ -13,7 +13,7 @@ layout: single
     *Role: Guest Lecturer*  
     *Course instructor: Prof. Steven N. Durlauf*
 
-**Hong Kong University of Science and Technology (HKUST)**
+### Hong Kong University of Science and Technology (HKUST)
 *   **SOSC 1850: Understanding Society (undergraduate)** (Fall 2020)  
     *Role: Teaching Assistant*  
     *Course instructor: Prof. Julian McAllister Groves*
