@@ -4,7 +4,10 @@ permalink: /research/
 layout: single
 ---
 
-### Journal Articles in Russian
+## Journal Articles
+1. **A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning** (with Lian Chen, Steven N. Durlauf, and Albert F. Park), *Journal of Applied Econometrics*, 1–22, 2026, [https://doi.org/10.1002/jae.70085](https://doi.org/10.1002/jae.70085).
+    
+## Journal Articles in Russian
 
 1.  **Butaeva, K.**, Weber, S., & Davydov, D. V. (2018). Sports Mega Events Effectiveness Analysis: The Economists' View [in Russian]. *Voprosy Ekonomiki*<sup>★</sup>, (7), 149–160.   
     [🔗 PDF](https://www.vopreco.ru/jour/article/view/448) 
@@ -23,7 +26,7 @@ layout: single
 
 
 
-### Research Reports in Russian
+## Research Reports in Russian
 
 1.  Auzan, A., Avdienkova, M., Andreeva, D., Bakhtigaraeva, A., Bryzgalin, V., **Butaeva, K.**, Weber, S., Davydov, D., Zolotov, A., Nikitin, K., & Nikishina, E. (2017). Sociocultural Factors of Innovative Development and Successful Implementation of Reforms [in Russian]. *Moscow: Center for Strategic Research*, 15(2), 100-150.  
     [🔗 PDF](https://www.csr.ru/uploads/2017/10/report-sf-2017-10-12.pdf)
