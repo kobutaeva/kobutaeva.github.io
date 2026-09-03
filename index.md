@@ -65,6 +65,7 @@ permalink: /
       <img src="https://kobutaeva.github.io/assets/qing_fig7.png" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 7:</strong> Dynamics of the Shannon Entropy: Cross-Sectional Data.</figcaption>
     </figure>
+    </details>
     
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Media</strong></summary>
