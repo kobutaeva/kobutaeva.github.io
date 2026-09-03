@@ -65,7 +65,19 @@ permalink: /
       <img src="https://kobutaeva.github.io/assets/qing_fig7.png" style="width: 900px; height: auto;">
       <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 7:</strong> Dynamics of the Shannon Entropy: Cross-Sectional Data.</figcaption>
     </figure>
-    </details>
+    
+    <details style="text-align: justify;">
+    <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Media</strong></summary>
+    <ul style="list-style-type: disc; margin-left: 20px;">
+
+    <li style="margin-bottom: 15px;">
+        【量化历史研究】从向上流动到向下坠落：晚清社会的阶层流动. (August 16, 2026).
+        <i>量化历史研究.</i>
+        <a href="https://mp.weixin.qq.com/s/MQZAy8svq5iKE7UMI6Yl5A" target="_blank">🔗</a>
+    </li>
+
+ </ul>
+ </details>
     
 
 2.  **Class Mobility in the Era of Rising Inequality: A Synthetic Dynasty Analysis** (with Geoffrey T. Wodtke, Weiqi Wang, and Steven N. Durlauf). [🔗 NBER WP](https://www.nber.org/papers/w34800) 
