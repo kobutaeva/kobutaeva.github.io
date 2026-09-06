@@ -15,7 +15,8 @@ permalink: /
 
 ## Job Market Paper
 
-**Class Mobility in the Era of Rising Inequality: A Synthetic Dynasty Analysis** (with Geoffrey T. Wodtke, Weiqi Wang, and Steven N. Durlauf). [🔗 NBER WP](https://www.nber.org/papers/w34800)
+<div style="margin-left: 2em;">
+<p style="margin: 0 0 0.3em 0;"><strong>Class Mobility in the Era of Rising Inequality: A Synthetic Dynasty Analysis</strong> (with Geoffrey T. Wodtke, Weiqi Wang, and Steven N. Durlauf). <a href="https://www.nber.org/papers/w34800" target="_blank">🔗 NBER WP</a></p>
 <details style="text-align: justify;">
 <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
 Widely regarded as a barometer for equality of opportunity, intergenerational mobility has attracted renewed attention amid concerns that it has declined in the wake of rising economic inequality since the 1970s. Although earlier research documents stability, or even modest increases, in mobility among cohorts who entered the labor market before this period, evidence for more recent cohorts is limited and inconsistent. In this study, we analyze contemporary trends in class mobility using a new approach based on the "synthetic dynasties" represented in Markov chains. This approach yields several novel measures of movement and memory, which respectively capture how class positions differ from one generation to the next and how the influence of class origins dissipates across generations. Applying these methods to data from the U.S., we find that overall levels of movement and memory have remained largely stable across cohorts born between 1945 and 1990. This stability, however, masks offsetting class-specific trends. Among those from the upper and lower classes, movement has declined and memory has increased. In contrast, among the middle classes, movement has risen and memory has weakened.
@@ -48,6 +49,7 @@ Widely regarded as a barometer for equality of opportunity, intergenerational mo
   </li>
 </ul>
 </details>
+</div>
 
 ## Journal Articles
 
