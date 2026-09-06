@@ -16,7 +16,6 @@ permalink: /
 ## Job Market Paper
 
 **Class Mobility in the Era of Rising Inequality: A Synthetic Dynasty Analysis** (with Geoffrey T. Wodtke, Weiqi Wang, and Steven N. Durlauf). [🔗 NBER WP](https://www.nber.org/papers/w34800)
-
 <details style="text-align: justify; margin-top: 0.5em; margin-bottom: 1em;">
 <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
 
@@ -41,9 +40,7 @@ Widely regarded as a barometer for equality of opportunity, intergenerational mo
   <img src="https://kobutaeva.github.io/assets/p_IM_initial.png" style="width: 900px; max-width: 100%; height: auto;">
   <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 7:</strong> Intergenerational memory at generation t=1 by origin class.</figcaption>
 </figure>
-
 </details>
-
 <details style="text-align: justify; margin-top: 0.5em; margin-bottom: 1em;">
 <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Media</strong></summary>
 
@@ -52,14 +49,12 @@ Widely regarded as a barometer for equality of opportunity, intergenerational mo
     Has Class Mobility in America Really Changed? New Research Finds a Complicated Answer. (2026, March 26). <i>UChicago News.</i> <a href="https://harris.uchicago.edu/news-events/news/has-class-mobility-america-really-changed-new-research-finds-complicated-answer" target="_blank">URL🔗</a>
   </li>
 </ul>
-
 </details>
 
 ## Journal Articles
 
 1. **A Tale of Two Transitions: Mobility Dynamics in China and Russia after Central Planning** (with Lian Chen, Steven N. Durlauf, and Albert F. Park), *Journal of Applied Econometrics*, 1–22, 2026, [https://doi.org/10.1002/jae.70085](https://doi.org/10.1002/jae.70085).<br>
 [🔗 NBER WP](https://www.nber.org/papers/w34124)
-
 <details style="text-align: justify; margin-top: 0.5em; margin-bottom: 1em;">
 <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
 
@@ -74,9 +69,7 @@ This paper examines intergenerational mobility in China and Russia during their 
   <img src="https://kobutaeva.github.io/assets/fig16_bcdp.png" alt="Main finding" style="width: 900px; max-width: 100%; height: auto;">
   <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 16:</strong> Dynamics of overall, structural, and exchange occupational mobility.</figcaption>
 </figure>
-
 </details>
-
 <details style="text-align: justify; margin-top: 0.5em; margin-bottom: 1em;">
 <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Media</strong></summary>
 
@@ -94,7 +87,6 @@ This paper examines intergenerational mobility in China and Russia during their 
     Shifting Generations: How Market Reforms Changed Social Mobility in China and Russia. (2025, October 8). <i>Devdiscourse.</i> <a href="https://www.devdiscourse.com/article/other/3653780-shifting-generations-how-market-reforms-changed-social-mobility-in-china-and-russia" target="_blank">URL🔗</a>
   </li>
 </ul>
-
 </details>
 
 ## Working Papers
