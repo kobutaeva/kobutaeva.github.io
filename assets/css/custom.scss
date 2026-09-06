@@ -1,13 +1,20 @@
 ---
 ---
-
+ 
+/* Shift the name, bio, and social links a bit right, away from the avatar's left edge */
+@media (min-width: 1024px) {
+  .sidebar .author__content,
+  .sidebar .author__urls-wrapper {
+    padding-left: 15px;
+  }
+}
+ 
 /* NUCLEAR OPTION: Remove all filters from sidebar icons */
 .sidebar .author__urls-social i.svg-inline--fa {
     filter: none !important;
     -webkit-filter: none !important;
     color: inherit !important; /* This allows the original colors to show */
 }
-
 /* Force specific colors for each brand */
 .sidebar a[data-label="Google Scholar"] i { color: #4285F4 !important; } /* Google Blue */
 .sidebar a[data-label="ORCID"] i { color: #A6CE39 !important; } /* ORCID Green */
@@ -15,12 +22,10 @@
 .sidebar a[data-label="Email"] i { color: #EA4335 !important; } /* Gmail Red */
 .sidebar a[data-label="Bluesky"] i { color: #0085FF !important; } /* Bluesky Blue */
 .sidebar a[data-label="CV"] i { color: RoyalBlue !important; } /* CV RoyalBlue */
-
 /* Make the CV text RoyalBlue */
 .sidebar a[data-label="CV"] .btn__text {
     color: RoyalBlue !important;
 }
-
 /* Hover effects */
 .sidebar .author__urls-social a:hover i {
     opacity: 0.9;
