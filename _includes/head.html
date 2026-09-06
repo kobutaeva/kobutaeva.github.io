@@ -106,11 +106,107 @@ details summary:hover {
   text-decoration: underline;
 }
 
-/* Shift the name, bio, and social links a bit right, away from the avatar's left edge */
+<meta charset="utf-8">
+{% include seo.html %}
+{% unless site.atom_feed.hide %}
+  <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+{% endunless %}
+{%- comment %} https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present {% endcomment -%}
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  {% if site.enable_copy_code_button -%}
+    window.enable_copy_code_button = true;
+  {%- endif %}
+</script>
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<!-- Load Academicons for ORCID and Google Scholar -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+{% if site.head_scripts %}
+  {% for script in site.head_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% endif %}
+<!-- CUSTOM CSS INJECTION - Loaded directly, cannot fail -->
+<style>
+/* 1. Make font smaller in markdown content */
+.page__content {
+  font-size: 0.7em;
+  line-height: 1.2;
+}
+/* NUCLEAR OPTION FOR HOMEPAGE ONLY */
+.layout--home .container {
+  max-width: 95% !important;
+}
+.layout--home .page {
+  max-width: 90% !important;
+}
+.layout--home .page__content {
+  max-width: 1000px !important;
+  width: 100% !important;
+}
+/* Remove all constraints on homepage content */
+.layout--home .page__content p,
+.layout--home .page__content ul, 
+.layout--home .page__content ol,
+.layout--home .page__content li,
+.layout--home .page__content figure {
+  max-width: none !important;
+}
+  
+// Nicer link colors Optional: Specific targeting for sidebar links 
+/* Target only text links inside your content paragraphs color: #0071BC !important; /* RoyalBlue for SSRN, PDF links */ */
+.page__content p a {
+  color: #0C447C !important; /* RoyalBlue for SSRN, PDF links */
+}
+.page__content p a:hover {
+  color: #0C447C !important; /* Darker blue on hover */
+  text-decoration: underline;
+}
+/* Optional: Also target links in lists if your papers are in a list */
+.page__content li a {
+  color: #0C447C !important;
+}
+.page__content li a:hover {
+  color: #0C447C !important;
+  text-decoration: underline;
+}
+  
+/* Make ALL text links in content the same blue */
+.page__content a {
+  color: #0C447C !important; /* Your chosen blue */
+}
+/* Remove color change on hover, keep only underline */
+.page__content a:hover {
+  color: #0C447C !important; /* Same color as normal state */
+  text-decoration: underline;
+}
+  /* Make Abstract links the same blue as other hyperlinks */
+details summary {
+  color: #0C447C !important;
+  cursor: pointer;
+  display: inline-block;
+}
+/* Optional: Change color on hover to match your link hover style */
+details summary:hover {
+  color: #0C447C !important;
+  text-decoration: underline;
+}
+
+/* Move the whole sidebar (photo, name, bio, social links) a bit left */
 @media (min-width: 1024px) {
-  .sidebar .author__content,
-  .sidebar .author__urls-wrapper {
-    padding-left: -30px;
+  .sidebar {
+    margin-left: -15px;
+  }
+}
+
+/* Move the main content (Research Interests, papers, etc.) a bit right */
+@media (min-width: 1024px) {
+  .page__inner-wrap {
+    padding-left: 20px;
   }
 }
 </style>
