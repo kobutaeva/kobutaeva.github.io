@@ -8,7 +8,9 @@ permalink: /
 
 <p style="font-size: 1.1em; line-height: 1.6; margin-bottom: 2em;">
   I am an applied microeconomist specializing in labor and social economics.<br>
-  My research interests include inequality and intergenerational mobility, with a regional focus on Russia, China, and the United States. I am on the <strong>2026–2027 academic job market</strong>.
+  My research interests include inequality and intergenerational mobility, with a regional focus on Russia, China, and the United States. 
+  <br><br>
+  I am on the 2026–2027 academic job market.
 </p>
 
 
