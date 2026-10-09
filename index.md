@@ -88,7 +88,23 @@ Widely regarded as a barometer for equality of opportunity, intergenerational mo
     </details>
 
 ## Working Papers
-1.  **Intergenerational Mobility in Late Qing Dynasty: Evidence from Northeast China** (with Steven N. Durlauf and Alexander Shapoval), *under review*. [🔗 NBER WP](https://www.nber.org/papers/w35313)
+1.  **Income Inequality in Chinese Provinces: The Role of Human Capital** (with Albert F. Park), **accepted, Journal of Comparative Economics**. [🔗 SSRN WP](https://ssrn.com/abstract=5245777)  
+    <details style="text-align: justify;">
+    <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
+    We conduct the first systematic empirical analysis of income inequality in China at the provincial level. Using data from the China Household Finance Survey (CHFS) and a semiparametric distribution model, we estimate Gini indices for Chinese provinces in 2012, 2014, 2016, and 2018. We find that differences in the "prices" and "quantities" of human capital are strongly associated with differences in inequality across provinces. Our findings suggest that poor provinces are highly disadvantaged compared to rich provinces, as they face higher income and educational inequality, as well as a higher premium for completing high school, while at the same time exhibiting lower average educational attainment. We conclude that the reduction of existing interprovincial human capital gaps and the acceleration of labor market integration through appropriate government policies could be associated with lower spatial disparities in inequality levels across regions and lower overall income inequality in China.
+    
+    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/fig_ch2.png" alt="Main finding" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 1:</strong> Gini index in Chinese provinces.</figcaption>
+    </figure>
+
+    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/fig3.png" alt="Main finding" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 3:</strong> Gini index and log(GRP pc) in Chinese provinces.</figcaption>
+    </figure>
+    </details>  
+    
+2.  **Intergenerational Mobility in Late Qing Dynasty: Evidence from Northeast China** (with Steven N. Durlauf and Alexander Shapoval), *under review*. [🔗 NBER WP](https://www.nber.org/papers/w35313)
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
     This paper examines intergenerational mobility across social classes during the late Qing dynasty employing a remarkable data set from Liaoning province in Northeast China. We identify two distinct epochs with markedly different mobility dynamics. Before 1850, mobility patterns exhibited stability and convergence toward a steady state. The second epoch, beginning around 1850, was characterized by unstable intergenerational class dynamics that persisted until the dynasty’s collapse. The transition between epochs coincides with the Opium Wars and Taiping Rebellion, demonstrating how the footprints of major crises in the late Qing era can be traced in mobility dynamics. Employing Markov-chain measures and two alternative mobility concepts—the persistence of class origin across generations and intergenerational class movement—we document that intergenerational mobility increased over the period. However, this aggregate increase masked a decline in upward mobility alongside a rise in downward mobility—disparate patterns that resonate with broader theories of political instability.
@@ -115,24 +131,6 @@ Widely regarded as a barometer for equality of opportunity, intergenerational mo
         </li>
      </ul>
      </details>
-
-
-2.  **Income Inequality in Chinese Provinces: The Role of Human Capital** (with Albert F. Park), *under review*. [🔗 SSRN WP](https://ssrn.com/abstract=5245777)  
-    <details style="text-align: justify;">
-    <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
-    We conduct the first systematic empirical analysis of income inequality in China at the provincial level. Using data from the China Household Finance Survey (CHFS) and a semiparametric distribution model, we estimate Gini indices for Chinese provinces in 2012, 2014, 2016, and 2018. We find that differences in the "prices" and "quantities" of human capital are strongly associated with differences in inequality across provinces. Our findings suggest that poor provinces are highly disadvantaged compared to rich provinces, as they face higher income and educational inequality, as well as a higher premium for completing high school, while at the same time exhibiting lower average educational attainment. We conclude that the reduction of existing interprovincial human capital gaps and the acceleration of labor market integration through appropriate government policies could be associated with lower spatial disparities in inequality levels across regions and lower overall income inequality in China.
-    
-    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/assets/fig_ch2.png" alt="Main finding" style="width: 900px; height: auto;">
-      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 1:</strong> Gini index in Chinese provinces.</figcaption>
-    </figure>
-
-    <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/assets/fig3.png" alt="Main finding" style="width: 900px; height: auto;">
-      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 3:</strong> Gini index and log(GRP pc) in Chinese provinces.</figcaption>
-    </figure>
-    </details>  
-
 
 3.  **Taming the Tail: Sparse Top Incomes and Inequality Measurement in China, 2012–2018**, *under review* (previously circulated as "Income Inequality in China, 2012--2018: A New Measurement Approach"). [🔗 SSRN WP](https://ssrn.com/abstract=5185428)  
     <details style="text-align: justify;">
