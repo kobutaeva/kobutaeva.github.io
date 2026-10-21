@@ -87,8 +87,8 @@ Widely regarded as a barometer for equality of opportunity, intergenerational mo
     </ul>
     </details>
     
-## Accepted for Publication
-1.  **Income Inequality in Chinese Provinces: The Role of Human Capital** (with Albert F. Park), accepted, *Journal of Comparative Economics*. [🔗 SSRN WP](https://ssrn.com/abstract=5245777)  
+
+2.  **Income Inequality in Chinese Provinces: The Role of Human Capital** (with Albert F. Park), accepted, *Journal of Comparative Economics*. [🔗 SSRN WP](https://ssrn.com/abstract=5245777)  
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
     We conduct the first systematic empirical analysis of income inequality in China at the provincial level. Using data from the China Household Finance Survey (CHFS) and a semiparametric distribution model, we estimate Gini indices for Chinese provinces in 2012, 2014, 2016, and 2018. We find that differences in the "prices" and "quantities" of human capital are strongly associated with differences in inequality across provinces. Our findings suggest that poor provinces are highly disadvantaged compared to rich provinces, as they face higher income and educational inequality, as well as a higher premium for completing high school, while at the same time exhibiting lower average educational attainment. We conclude that the reduction of existing interprovincial human capital gaps and the acceleration of labor market integration through appropriate government policies could be associated with lower spatial disparities in inequality levels across regions and lower overall income inequality in China.
