@@ -16,8 +16,7 @@ permalink: /
 ## Job Market Paper
 
 <div style="margin-left: 2em;">
-<p style="margin: 0 0 0.3em 0;"><strong>Class Mobility in the Era of Rising Inequality: A Synthetic Dynasty Analysis</strong> (with Geoffrey T. Wodtke, Weiqi Wang, and Steven N. Durlauf), <em>under review</em>. <a href="https://www.nber.org/papers/w34800" target="_blank">🔗 NBER WP</a>
-<a href="https://kobutaeva.github.io/assets/JMP_KButaeva.pdf" target="_blank" style="border: 1.5px solid; border-radius: 4px; padding: 0 0.5em; text-decoration: none;">📄 Current draft</a></p> 
+<p style="margin: 0 0 0.3em 0;"><strong>Class Mobility in the Era of Rising Inequality: A Synthetic Dynasty Analysis</strong> (with Geoffrey T. Wodtke, Weiqi Wang, and Steven N. Durlauf), <em>under review</em>. <a href="https://www.nber.org/papers/w34800" target="_blank">🔗 NBER WP</a> <a href="https://kobutaeva.github.io/assets/JMP_KButaeva.pdf" target="_blank" style="border: 1.5px solid; border-radius: 4px; padding: 0 0.5em; text-decoration: none;">📄 Current draft</a></p> 
 <details style="text-align: justify;">
 <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
 Widely regarded as a barometer for equality of opportunity, intergenerational mobility has attracted renewed attention amid concerns that it has declined in the wake of rising economic inequality since the 1970s. Although earlier research documents stability, or even modest increases, in mobility among cohorts who entered the labor market before this period, evidence for more recent cohorts is limited and inconsistent. In this study, we analyze contemporary trends in class mobility using a new approach based on the “synthetic dynasties” represented in Markov chains. This approach yields several novel measures of movement and memory, which respectively
