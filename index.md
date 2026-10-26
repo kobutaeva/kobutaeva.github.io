@@ -89,7 +89,7 @@ capture how class positions differ from one generation to the next and how the i
     </details>
     
 
-2.  **Income Inequality in Chinese Provinces: The Role of Human Capital** (with Albert F. Park), accepted, *Journal of Comparative Economics*. [🔗 SSRN WP](https://ssrn.com/abstract=5245777)
+2.  **Income Inequality in Chinese Provinces: The Role of Human Capital** (with Albert F. Park), accepted, *Journal of Comparative Economics*. [🔗 SSRN WP](https://ssrn.com/abstract=5245777)<br>
    <a href="https://kobutaeva.github.io/assets/Additional_Paper_2_KButaeva.pdf" target="_blank">📄 Current draft</a>
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
