@@ -167,8 +167,8 @@ capture how class positions differ from one generation to the next and how the i
     </figure> 
   
   <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
-      <img src="https://kobutaeva.github.io/assets/fig11_oxf_hb.png" alt="Main finding" style="width: 900px; height: auto;">
-      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 11:</strong> Distribution of Regional Gini Coefficients in Russia.</figcaption>
+      <img src="https://kobutaeva.github.io/assets/fig12_oxf_hb.png" alt="Main finding" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 12:</strong> Distribution of Regional Gini Coefficients in Russia.</figcaption>
     </figure> 
     
  <div style="clear: both;"></div>
