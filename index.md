@@ -149,6 +149,30 @@ capture how class positions differ from one generation to the next and how the i
     </details> 
     
  <div style="clear: both;"></div>
+ 
+ 3.  **Income Inequality and Intergenerational Mobility in Russia** (with Steven N. Durlauf and Dmitry Rudenko). Chapter prepared for the *The Oxford Handbook of the Russian Economy*. [🔗 NBER WP](https://www.nber.org/papers/w35965) 
+    <details style="text-align: justify;">
+    <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
+    This chapter documents trends in income and inequality in Russia from the collapse of the Soviet Union through 2025, drawing on official statistics, the existing literature, and household survey microdata. It also reviews evidence on intergenerational mobility. While there is a consensus that inequality dramatically increased during the 1990s, its post-2000 trajectory is contested. Initial household survey studies usually found a decline, whereas official statistics reported a comparatively stable Gini coefficient. Our analysis of Russia's major household surveys, harmonized using common measurement conventions, aligns with the survey-based literature, indicating that the Gini coefficient generally fell from approximately 0.45-0.48 in the early 2000s to 0.29-0.38 in the early 2020s. We further find that most inequality arises within rather than between regions, urban and rural areas, and education and occupation groups. Household labor-market attachment, region, and household composition account for the largest shares of the explained variance in log income. The large literature on inequality is complemented by a small literature on intergenerational mobility. Here, the various studies on intergenerational dynamics in education, occupation, and income across post-Soviet cohorts conclude that, even against the background of dramatic structural changes, family background remains strongly associated with children’s outcomes.
+    
+    
+  <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/fig9_oxf_hb.png" alt="Main finding" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 9:</strong> Income Inequality in Russia 1990-2025: Official and International Estimates.</figcaption>
+    </figure>
+    
+  <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/fig10_oxf_hb.png" alt="Main finding" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 10:</strong> Income Gini Coefficients in Russia, 2000–2025: Four Household Surveys.</figcaption>
+    </figure> 
+  
+  <figure style="float: right; width: 95%; margin-left: 20px; margin-bottom: 20px;">
+      <img src="https://kobutaeva.github.io/assets/fig11_oxf_hb.png" alt="Main finding" style="width: 900px; height: auto;">
+      <figcaption style="font-size: 1em; text-align: center;"><strong>Figure 11:</strong> Distribution of Regional Gini Coefficients in Russia.</figcaption>
+    </figure> 
+    
+ <div style="clear: both;"></div>
+
 
 ## Work in Progress
     
@@ -169,9 +193,5 @@ capture how class positions differ from one generation to the next and how the i
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
     This paper studies the intergenerational dynamics of religious affiliation in the United States across birth cohorts using General Social Survey data from 1973 to 2024. We estimate cohort-specific transition matrices from religion of origin to current affiliation and apply Markov chain measures that distinguish mobility as movement, or how often people leave the religion in which they were raised, from mobility as memory, or how much origin shapes destinations across generations. We find that overall mobility has risen significantly, but almost entirely through structural reallocation to nonaffiliation, with circulation among traditions remaining steady across cohorts. The persistence of nonaffiliation increases substantially, and it becomes faster to reach from every origin, while Catholicism and mainline Protestantism become much harder to reach; steady-state proportions concentrate on nonaffiliation and evangelical Protestantism as two poles. The aggregate memory in the system also decreases, indicating that religious origin has become less predictive of adult affiliation. These processes differ by region, sex, and especially political party, with Democrats trending toward nonaffiliation and Republicans toward evangelical Protestantism.
     </details>
-4.  **Income Inequality and Intergenerational Mobility in Russia** (with Steven N. Durlauf and Dmitry Rudenko), in *The Oxford Handbook of the Russian Economy*.
-    <details style="text-align: justify;">
-    <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
-    This chapter documents trends in income and inequality in Russia from the collapse of the Soviet Union through 2025, drawing on official statistics, the existing literature, and household survey microdata. It also reviews evidence on intergenerational mobility. While there is a consensus that inequality dramatically increased during the 1990s, its post-2000 trajectory is contested. Initial household survey studies usually found a decline, whereas official statistics reported a comparatively stable Gini coefficient. Our analysis of Russia's major household surveys, harmonized using common measurement conventions, aligns with the survey-based literature, indicating that the Gini coefficient generally fell from approximately 0.45-0.48 in the early 2000s to 0.29-0.38 in the early 2020s. We further find that most inequality arises within rather than between regions, urban and rural areas, and education and occupation groups. Household labor-market attachment, region, and household composition account for the largest shares of the explained variance in log income. The large literature on inequality is complemented by a small literature on intergenerational mobility. Here, the various studies on intergenerational dynamics in education, occupation, and income across post-Soviet cohorts conclude that, even against the background of dramatic structural changes, family background remains strongly associated with children’s outcomes.
-    </details>
-5.  **Demolition, Compensation, and Wealth Dynamics in China** (with Wenbiao Sha).
+
+4.  **Demolition, Compensation, and Wealth Dynamics in China** (with Wenbiao Sha).
