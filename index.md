@@ -151,7 +151,6 @@ capture how class positions differ from one generation to the next and how the i
  <div style="clear: both;"></div>
  
 3. **Income Inequality and Intergenerational Mobility in Russia** (with Steven N. Durlauf and Dmitry Rudenko). Chapter prepared for *The Oxford Handbook of the Russian Economy*. [🔗 NBER WP](https://www.nber.org/papers/w35965)
-
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
 
