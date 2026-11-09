@@ -179,7 +179,7 @@ capture how class positions differ from one generation to the next and how the i
 
 ## Work in Progress
     
-1.  **Different Metrics, Same Objective? Understanding the Ways Economists and Sociologists Measure Intergenerational Mobility** (with Steven N. Durlauf), in *Handbook of the Economics of Intergenerational Mobility*.
+1.  **Different Metrics, Same Objective? Understanding the Ways Economists and Sociologists Measure Intergenerational Mobility** (with Steven N. Durlauf). Chapter prepared for *Handbook of the Economics of Intergenerational Mobility*.
     <details style="text-align: justify;">
     <summary style="list-style: disclosure-closed inside; display: list-item;"><strong>Abstract</strong></summary>
     This chapter provides an overview of measures of intergenerational mobility that have been developed in the economics and sociology literatures, using some standard stochastic processes to unify the many mobility statistics employed by social scientists. We classify broad measurement concepts and frameworks used to study intergenerational mobility, outlining their theoretical foundations and empirical applications. While regression and Markov chain models receive primary focus, we also consider newer methods such as trajectory-based mobility analysis and nonlinear models. Particular attention is given to the ways in which scalar mobility measures preserve or lose information relative to general characterizations of the probability distributions of adult outcomes conditional on features of their childhood and adolescence.
